@@ -194,6 +194,16 @@
                     "tags": [
                         "OS"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Promiň adame, že dělám bordel, něco zkouším",
+                        "Snad to už neuvidíš, až ti to nasheruju"
+                    ],
+                    "guid": "GG8::LfNOs",
+                    "note_model_uuid": "188e8620-15c5-11ef-9bed-f71adc4b3557",
+                    "tags": []
                 }
             ],
             "reviewLimit": null,
